@@ -167,3 +167,39 @@ input:focus {
   text-align: center;
   line-height: 1.3em;
 }
+
+@media (max-width: 991.98px) {
+  body {
+    padding: 40px;
+  }
+}
+
+@media (max-width: 767.98px) {
+  #nav-middle {
+    display: none;
+  }
+
+  .card {
+    width: 45%;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .card {
+    width: 100%;
+  }
+}
+
+@media (max-width: 375.98px) {
+  body {
+    padding: 30px 0;
+  }
+
+  #logo {
+    width: 100px;
+  }
+
+  #input-container {
+    margin: 40px 0 10px 0;
+  }
+}
