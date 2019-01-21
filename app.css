@@ -208,6 +208,10 @@ input:focus {
   color: #609;
 }
 
+#credits {
+  margin-top: 30px;
+}
+
 /* RESPONSIVE */
 
 @media (max-width: 991.98px) {

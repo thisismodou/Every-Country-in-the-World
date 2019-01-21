@@ -7,3 +7,7 @@ Every Country in the World (ECitW) is a small project intending to gather basic 
 ### Get in Touch
 
 Feel free to [get in touch on Twitter](https://twitter.com/thisismodou) about any questions or suggestions you may have. Any suggestions to make the site better would greatly be appreciated.
+
+### Get in Touch
+
+Favicon and Earth icon made by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
